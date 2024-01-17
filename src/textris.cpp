@@ -5,10 +5,10 @@
 #include <iomanip>  // setw()
 #include <unistd.h> // sleep function
 #include <clocale>  // non-ascii characters
-#include "include/constants.h"  // constant variables
-#include "include/bgone.h"   // badGuess screens 0 - 2
-#include "include/bgtwo.h"   // badGuess screens 3 - 5
-#include "include/endtextris.h"  // intro/exit/winner/loser screens
+#include "Textris-main/include/constants.h"  // constant variables
+#include "Textris-main/include/bgone.h"   // badGuess screens 0 - 2
+#include "Textris-main/include/bgtwo.h"   // badGuess screens 3 - 5
+#include "Textris-main/include/endtextris.h"  // intro/exit/winner/loser screens
 using namespace std;
 
 
