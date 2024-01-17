@@ -2,6 +2,8 @@
 
 Textris is a hangman-style game written in C++
 
+**Works On:** any Unix-based OS, (e.g. Linux, MacOS)
+
 ## How To Play
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/freeghosts/Textris/blob/650d7abe45cf9ea0e8cc0ccb41dc5891d69c4638/img/textris_howto.png">
