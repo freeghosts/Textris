@@ -2,7 +2,7 @@
 
 Textris is a hangman-style game written in C++
 
-### Works On:
+### Works On
 
 Any Unix-based OS, (e.g. Linux, MacOS)
 
