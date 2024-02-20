@@ -21,14 +21,9 @@ g++ main.cpp
 5. Type in `g++ main.cpp` then press Enter
 6. Type in `./a.out` then press Enter
 
-<p>
-  <br>
-</p>
+<p><br></p>
 
-
-<p>
-  <br>
-</p>
+![screenshot of beginning of Textris gameplay](textris-gameplay1.png) ![screenshot of Textris gameplay midgame](textris-gameplay2.png)
 
 
 
